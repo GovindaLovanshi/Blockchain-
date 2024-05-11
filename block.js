@@ -51,9 +51,9 @@ class Block {
 
 const block1 = new Block({
   hash: "0xacb",
-  timestamp: "2/09/22",
+  timestamp: "2/03/24",
   prevHash: "0xc12",
-  data: "hello",
+  data: "oi_rju",
 });
 
 // const genesisBlock = Block.genesis();
